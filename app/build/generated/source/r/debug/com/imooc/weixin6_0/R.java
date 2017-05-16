@@ -95,15 +95,8 @@ containing a value of this type.
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
-
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
          */
         public static final int AppBaseTheme=0x7f050000;
-        /**  All customizations that are NOT specific to a particular API-level can go here. 
-         */
         public static final int AppTheme=0x7f050002;
         public static final int weixinActionOverflowButtonStyle=0x7f050001;
     }
