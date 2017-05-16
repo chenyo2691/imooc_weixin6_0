@@ -33,15 +33,7 @@
                     "endOffset": 436
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values-v14\\styles.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 545,
-                        "endLine": 16,
-                        "endColumn": 12,
-                        "endOffset": 675
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values-v14\\styles.xml"
                 }
             }
         ]

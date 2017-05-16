@@ -20,6 +20,10 @@
         android:icon="@drawable/men_scan_icon"
         android:title="@string/menu_scan"/>
     <item
+        android:id="@+id/action_money"
+        android:icon="@drawable/menu_money_icon"
+        android:title="@string/menu_money"/>
+    <item
         android:id="@+id/action_feedback"
         android:icon="@drawable/menu_feedback_icon"
         android:title="@string/menu_feedback"/>

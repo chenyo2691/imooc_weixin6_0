@@ -57,16 +57,18 @@ containing a value of this type.
         public static final int menu_add_icon=0x7f020008;
         public static final int menu_feedback_icon=0x7f020009;
         public static final int menu_group_chat_icon=0x7f02000a;
-        public static final int tab_address_normal=0x7f02000b;
-        public static final int tab_bg=0x7f02000c;
-        public static final int tab_find_frd_normal=0x7f02000d;
-        public static final int tab_settings_normal=0x7f02000e;
-        public static final int tab_weixin_normal=0x7f02000f;
+        public static final int menu_money_icon=0x7f02000b;
+        public static final int tab_address_normal=0x7f02000c;
+        public static final int tab_bg=0x7f02000d;
+        public static final int tab_find_frd_normal=0x7f02000e;
+        public static final int tab_settings_normal=0x7f02000f;
+        public static final int tab_weixin_normal=0x7f020010;
     }
     public static final class id {
         public static final int action_add_friend=0x7f080007;
-        public static final int action_feedback=0x7f080009;
+        public static final int action_feedback=0x7f08000a;
         public static final int action_group_chat=0x7f080006;
+        public static final int action_money=0x7f080009;
         public static final int action_scan=0x7f080008;
         public static final int action_search=0x7f080005;
         public static final int id_indicator_four=0x7f080004;
@@ -88,16 +90,18 @@ containing a value of this type.
         public static final int menu_addfriend=0x7f060003;
         public static final int menu_feedback=0x7f060004;
         public static final int menu_group_chat=0x7f060005;
-        public static final int menu_scan=0x7f060006;
-        public static final int tab_contact=0x7f060007;
-        public static final int tab_found=0x7f060008;
-        public static final int tab_me=0x7f060009;
+        public static final int menu_money=0x7f060006;
+        public static final int menu_scan=0x7f060007;
+        public static final int tab_contact=0x7f060008;
+        public static final int tab_found=0x7f060009;
+        public static final int tab_me=0x7f06000a;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f050000;
         public static final int AppTheme=0x7f050002;
+        public static final int mPopupMenuTextStyle=0x7f050003;
         public static final int weixinActionOverflowButtonStyle=0x7f050001;
     }
     public static final class styleable {
