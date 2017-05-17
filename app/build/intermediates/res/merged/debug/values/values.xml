@@ -19,16 +19,19 @@
     <string name="tab_found">发现</string>
     <string name="tab_me">我</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
-        
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
         <item name="android:itemBackground">#22292C</item>
-
         <item name="android:textAppearanceLargePopupMenu">@style/mPopupMenuTextStyle</item>
     </style>
-    <style name="mPopupMenuTextStyle">
+    <style name="mPopupMenuTextStyle" parent="android:Widget.Holo.Light.ListPopupWindow">
         <item name="android:textColor">@android:color/white</item>
-        <item name="android:textSize"> 16dp</item>
+        <item name="android:textSize">16dp</item>
     </style>
 </resources>

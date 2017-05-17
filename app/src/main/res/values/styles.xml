@@ -16,13 +16,12 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
         <item name="android:itemBackground">#22292C</item>
-
         <item name="android:textAppearanceLargePopupMenu">@style/mPopupMenuTextStyle</item>
     </style>
 
-    <style name="mPopupMenuTextStyle">
+    <style name="mPopupMenuTextStyle" parent="android:Widget.Holo.Light.ListPopupWindow">
         <item name="android:textColor">@android:color/white</item>
-        <item name="android:textSize"> 16dp</item>
+        <item name="android:textSize">16dp</item>
     </style>
 
 </resources>
