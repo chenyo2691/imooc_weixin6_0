@@ -64,6 +64,10 @@
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\headshow3.png"
     },
     {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ofm_cardbao_icon.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ofm_cardbao_icon.png"
+    },
+    {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\brand_default_head.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\brand_default_head.png"
     },
