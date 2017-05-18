@@ -1,15 +1,47 @@
 [
     {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\welcome_people.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\welcome_people.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more_game.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\more_game.png"
+    },
+    {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_find_frd_normal.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_normal.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more_emoji_store.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\more_emoji_store.png"
     },
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_settings_normal.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_normal.png"
     },
     {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\find_more_friend_scan.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\find_more_friend_scan.png"
+    },
+    {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_weixin_normal.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_normal.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\find_more_friend_bottle.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\find_more_friend_bottle.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\welcome_logo_ch.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\welcome_logo_ch.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\welcome_earth.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\welcome_earth.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\find_more_friend_photograph_icon.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\find_more_friend_photograph_icon.png"
     },
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
@@ -18,5 +50,13 @@
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_address_normal.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\find_more_friend_near_icon.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\find_more_friend_near_icon.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\find_more_friend_shake.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\find_more_friend_shake.png"
     }
 ]

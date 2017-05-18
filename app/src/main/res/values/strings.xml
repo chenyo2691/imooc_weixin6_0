@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">微信</string>
+    <string name="app_name">微信(11)</string>
     <string name="action_search">查找</string>
     <string name="action_add">添加</string>
     <string name="menu_group_chat">发起群聊</string>

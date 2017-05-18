@@ -48,37 +48,85 @@ containing a value of this type.
     public static final class drawable {
         public static final int actionbar_add_icon=0x7f020000;
         public static final int actionbar_search_icon=0x7f020001;
-        public static final int ic_launcher=0x7f020002;
-        public static final int ic_menu_allfriends=0x7f020003;
-        public static final int ic_menu_emoticons=0x7f020004;
-        public static final int ic_menu_friendslist=0x7f020005;
-        public static final int ic_menu_start_conversation=0x7f020006;
-        public static final int men_scan_icon=0x7f020007;
-        public static final int menu_add_icon=0x7f020008;
-        public static final int menu_feedback_icon=0x7f020009;
-        public static final int menu_group_chat_icon=0x7f02000a;
-        public static final int menu_money_icon=0x7f02000b;
-        public static final int tab_address_normal=0x7f02000c;
-        public static final int tab_bg=0x7f02000d;
-        public static final int tab_find_frd_normal=0x7f02000e;
-        public static final int tab_settings_normal=0x7f02000f;
-        public static final int tab_weixin_normal=0x7f020010;
+        public static final int bind_mcontact_reco_friends=0x7f020002;
+        public static final int bind_qq_icon=0x7f020003;
+        public static final int brand_default_head=0x7f020004;
+        public static final int find_more_friend_bottle=0x7f020005;
+        public static final int find_more_friend_near_icon=0x7f020006;
+        public static final int find_more_friend_photograph_icon=0x7f020007;
+        public static final int find_more_friend_scan=0x7f020008;
+        public static final int find_more_friend_shake=0x7f020009;
+        public static final int headshow1=0x7f02000a;
+        public static final int headshow2=0x7f02000b;
+        public static final int headshow3=0x7f02000c;
+        public static final int headshow4=0x7f02000d;
+        public static final int headshow5=0x7f02000e;
+        public static final int headshow6=0x7f02000f;
+        public static final int headshow_game=0x7f020010;
+        public static final int headshow_heb=0x7f020011;
+        public static final int headshow_linman=0x7f020012;
+        public static final int headshow_lt=0x7f020013;
+        public static final int headshow_meituan=0x7f020014;
+        public static final int headshow_pay=0x7f020015;
+        public static final int headshow_sj=0x7f020016;
+        public static final int headshow_tran=0x7f020017;
+        public static final int ic_launcher=0x7f020018;
+        public static final int ic_menu_allfriends=0x7f020019;
+        public static final int ic_menu_emoticons=0x7f02001a;
+        public static final int ic_menu_friendslist=0x7f02001b;
+        public static final int ic_menu_start_conversation=0x7f02001c;
+        public static final int icon=0x7f02001d;
+        public static final int icon_meituan=0x7f02001e;
+        public static final int men_scan_icon=0x7f02001f;
+        public static final int menu_add_icon=0x7f020020;
+        public static final int menu_feedback_icon=0x7f020021;
+        public static final int menu_group_chat_icon=0x7f020022;
+        public static final int menu_money_icon=0x7f020023;
+        public static final int more_emoji_store=0x7f020024;
+        public static final int more_game=0x7f020025;
+        public static final int tab_address_normal=0x7f020026;
+        public static final int tab_bg=0x7f020027;
+        public static final int tab_find_frd_normal=0x7f020028;
+        public static final int tab_settings_normal=0x7f020029;
+        public static final int tab_weixin_normal=0x7f02002a;
+        public static final int welcome_bg=0x7f02002b;
+        public static final int welcome_earth=0x7f02002c;
+        public static final int welcome_logo_ch=0x7f02002d;
+        public static final int welcome_people=0x7f02002e;
     }
     public static final class id {
-        public static final int action_add_friend=0x7f080007;
-        public static final int action_feedback=0x7f08000a;
-        public static final int action_group_chat=0x7f080006;
-        public static final int action_money=0x7f080009;
-        public static final int action_scan=0x7f080008;
-        public static final int action_search=0x7f080005;
+        public static final int a1=0x7f080005;
+        public static final int a2=0x7f080006;
+        public static final int action_add_friend=0x7f080016;
+        public static final int action_feedback=0x7f080019;
+        public static final int action_group_chat=0x7f080015;
+        public static final int action_money=0x7f080018;
+        public static final int action_scan=0x7f080017;
+        public static final int action_search=0x7f080014;
+        public static final int b1=0x7f080007;
+        public static final int b2=0x7f080008;
+        public static final int c1=0x7f080009;
+        public static final int c2=0x7f08000a;
+        public static final int d1=0x7f08000b;
+        public static final int d2=0x7f08000c;
+        public static final int e1=0x7f08000d;
+        public static final int e2=0x7f08000e;
+        public static final int f1=0x7f08000f;
+        public static final int f2=0x7f080010;
         public static final int id_indicator_four=0x7f080004;
         public static final int id_indicator_one=0x7f080001;
         public static final int id_indicator_three=0x7f080003;
         public static final int id_indicator_two=0x7f080002;
         public static final int id_viewpager=0x7f080000;
+        public static final int l1=0x7f080012;
+        public static final int l2=0x7f080013;
+        public static final int textView=0x7f080011;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
+        public static final int conversation=0x7f030001;
+        public static final int found=0x7f030002;
+        public static final int index=0x7f030003;
     }
     public static final class menu {
         public static final int main=0x7f070000;
@@ -98,11 +146,6 @@ containing a value of this type.
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
-
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
          */
         public static final int AppBaseTheme=0x7f050000;
         public static final int AppTheme=0x7f050003;

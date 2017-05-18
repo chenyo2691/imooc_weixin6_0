@@ -5,6 +5,7 @@ import android.content.res.TypedArray;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;
 import android.graphics.Canvas;
+import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.PorterDuff;
 import android.graphics.PorterDuffXfermode;
@@ -153,7 +154,8 @@ public class ChangeColorIconWithText extends View
 	 */
 	private void drawSourceText(Canvas canvas, int alpha)
 	{
-		mTextPaint.setColor(0xff333333);
+//		mTextPaint.setColor(0xff333333);
+		mTextPaint.setColor(Color.parseColor("#9E9E9E"));
 		mTextPaint.setAlpha(255 - alpha);
 		int x = getMeasuredWidth() / 2 - mTextBound.width() / 2;
 		int y = mIconRect.bottom + mTextBound.height();

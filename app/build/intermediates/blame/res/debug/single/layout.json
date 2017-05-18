@@ -2,5 +2,17 @@
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conversation.xml",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\layout\\conversation.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\index.xml",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\layout\\index.xml"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\found.xml",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\layout\\found.xml"
     }
 ]
