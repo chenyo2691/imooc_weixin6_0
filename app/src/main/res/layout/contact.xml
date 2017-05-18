@@ -117,6 +117,9 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="20dp"
+        android:text="A"
+        android:paddingLeft="10dip"
+        android:gravity="center_vertical"
         android:background="#ebebeb" />
 
     <LinearLayout
@@ -130,7 +133,7 @@
             android:layout_width="40dp"
             android:layout_height="40dp"
             android:scaleType="fitCenter"
-            android:src="@drawable/icon" />
+            android:src="@drawable/head_shui" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -159,7 +162,7 @@
             android:layout_width="40dp"
             android:layout_height="40dp"
             android:scaleType="fitCenter"
-            android:src="@drawable/icon" />
+            android:src="@drawable/head_quan" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -188,7 +191,7 @@
             android:layout_width="40dp"
             android:layout_height="40dp"
             android:scaleType="fitCenter"
-            android:src="@drawable/icon" />
+            android:src="@drawable/head_cezih" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -217,7 +220,7 @@
             android:layout_width="40dp"
             android:layout_height="40dp"
             android:scaleType="fitCenter"
-            android:src="@drawable/icon" />
+            android:src="@drawable/head_yuruoshi" />
 
         <TextView
             android:layout_width="wrap_content"
