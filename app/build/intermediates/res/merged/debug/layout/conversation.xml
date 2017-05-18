@@ -84,7 +84,8 @@
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.1dp"
+        android:alpha="0.7"
         android:background="#9E9E9E" />
 
     <RelativeLayout
@@ -118,7 +119,7 @@
                 android:singleLine="true"
                 android:text="昨天"
                 android:textColor="#9E9E9E"
-                android:textSize="15dip" />
+                android:textSize="13dip" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -166,7 +167,8 @@
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.1dp"
+        android:alpha="0.7"
         android:background="#9E9E9E" />
 
     <RelativeLayout
@@ -200,7 +202,7 @@
                 android:singleLine="true"
                 android:text="昨天"
                 android:textColor="#9E9E9E"
-                android:textSize="15dip" />
+                android:textSize="13dip" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -248,7 +250,8 @@
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.1dp"
+        android:alpha="0.7"
         android:background="#9E9E9E" />
 
     <RelativeLayout
@@ -282,7 +285,7 @@
                 android:singleLine="true"
                 android:text="昨天"
                 android:textColor="#9E9E9E"
-                android:textSize="15dip" />
+                android:textSize="13dip" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -330,7 +333,8 @@
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.1dp"
+        android:alpha="0.7"
         android:background="#9E9E9E" />
 
     <RelativeLayout
@@ -364,7 +368,7 @@
                 android:singleLine="true"
                 android:text="昨天"
                 android:textColor="#9E9E9E"
-                android:textSize="15dip" />
+                android:textSize="13dip" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -412,7 +416,8 @@
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.1dp"
+        android:alpha="0.7"
         android:background="#9E9E9E" />
 
     <RelativeLayout
@@ -446,7 +451,7 @@
                 android:singleLine="true"
                 android:text="昨天"
                 android:textColor="#9E9E9E"
-                android:textSize="15dip" />
+                android:textSize="13dip" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -495,7 +500,8 @@
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.1dp"
+        android:alpha="0.7"
         android:background="#9E9E9E" />
 
     <RelativeLayout
@@ -529,7 +535,7 @@
                 android:singleLine="true"
                 android:text="昨天"
                 android:textColor="#9E9E9E"
-                android:textSize="15dip" />
+                android:textSize="13dip" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -577,6 +583,7 @@
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.1dp"
+        android:alpha="0.7"
         android:background="#9E9E9E" />
 </LinearLayout>
