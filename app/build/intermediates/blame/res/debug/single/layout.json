@@ -12,6 +12,10 @@
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\layout\\index.xml"
     },
     {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\me.xml",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\layout\\me.xml"
+    },
+    {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\found.xml",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\layout\\found.xml"
     }

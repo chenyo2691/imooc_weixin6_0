@@ -84,27 +84,34 @@ containing a value of this type.
         public static final int menu_money_icon=0x7f020023;
         public static final int more_emoji_store=0x7f020024;
         public static final int more_game=0x7f020025;
-        public static final int tab_address_normal=0x7f020026;
-        public static final int tab_bg=0x7f020027;
-        public static final int tab_find_frd_normal=0x7f020028;
-        public static final int tab_settings_normal=0x7f020029;
-        public static final int tab_weixin_normal=0x7f02002a;
-        public static final int welcome_bg=0x7f02002b;
-        public static final int welcome_earth=0x7f02002c;
-        public static final int welcome_logo_ch=0x7f02002d;
-        public static final int welcome_people=0x7f02002e;
+        public static final int myicon=0x7f020026;
+        public static final int ofm_blacklist_icon=0x7f020027;
+        public static final int ofm_card_icon=0x7f020028;
+        public static final int ofm_collect_icon=0x7f020029;
+        public static final int ofm_photo_icon=0x7f02002a;
+        public static final int ofm_setting_icon=0x7f02002b;
+        public static final int tab_address_normal=0x7f02002c;
+        public static final int tab_bg=0x7f02002d;
+        public static final int tab_find_frd_normal=0x7f02002e;
+        public static final int tab_settings_normal=0x7f02002f;
+        public static final int tab_weixin_normal=0x7f020030;
+        public static final int welcome_bg=0x7f020031;
+        public static final int welcome_earth=0x7f020032;
+        public static final int welcome_logo_ch=0x7f020033;
+        public static final int welcome_people=0x7f020034;
     }
     public static final class id {
         public static final int a1=0x7f080005;
         public static final int a2=0x7f080006;
-        public static final int action_add_friend=0x7f080016;
-        public static final int action_feedback=0x7f080019;
-        public static final int action_group_chat=0x7f080015;
-        public static final int action_money=0x7f080018;
-        public static final int action_scan=0x7f080017;
-        public static final int action_search=0x7f080014;
+        public static final int action_add_friend=0x7f08001b;
+        public static final int action_feedback=0x7f08001e;
+        public static final int action_group_chat=0x7f08001a;
+        public static final int action_money=0x7f08001d;
+        public static final int action_scan=0x7f08001c;
+        public static final int action_search=0x7f080019;
         public static final int b1=0x7f080007;
         public static final int b2=0x7f080008;
+        public static final int btn_cancel=0x7f080018;
         public static final int c1=0x7f080009;
         public static final int c2=0x7f08000a;
         public static final int d1=0x7f08000b;
@@ -120,6 +127,10 @@ containing a value of this type.
         public static final int id_viewpager=0x7f080000;
         public static final int l1=0x7f080012;
         public static final int l2=0x7f080013;
+        public static final int my_bank=0x7f080017;
+        public static final int my_collection=0x7f080016;
+        public static final int my_photo=0x7f080015;
+        public static final int pop_layout=0x7f080014;
         public static final int textView=0x7f080011;
     }
     public static final class layout {
@@ -127,6 +138,7 @@ containing a value of this type.
         public static final int conversation=0x7f030001;
         public static final int found=0x7f030002;
         public static final int index=0x7f030003;
+        public static final int me=0x7f030004;
     }
     public static final class menu {
         public static final int main=0x7f070000;

@@ -4,6 +4,14 @@
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\headshow_game.jpg"
     },
     {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\myicon.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\myicon.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ofm_setting_icon.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ofm_setting_icon.png"
+    },
+    {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\headshow_heb.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\headshow_heb.png"
     },
@@ -14,6 +22,10 @@
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\headshow1.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\headshow1.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ofm_photo_icon.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ofm_photo_icon.png"
     },
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
@@ -28,12 +40,20 @@
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\headshow4.png"
     },
     {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ofm_blacklist_icon.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ofm_blacklist_icon.png"
+    },
+    {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bind_qq_icon.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\bind_qq_icon.png"
     },
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_start_conversation.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ofm_collect_icon.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ofm_collect_icon.png"
     },
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\headshow_tran.png",
@@ -82,6 +102,10 @@
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_friendslist.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_friendslist.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ofm_card_icon.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ofm_card_icon.png"
     },
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_meituan.png",
