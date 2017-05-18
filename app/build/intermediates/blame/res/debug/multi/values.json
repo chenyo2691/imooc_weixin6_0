@@ -11,14 +11,7 @@
                     "endOffset": 90
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\attr.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 109,
-                        "endColumn": 45,
-                        "endOffset": 150
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\attr.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 133
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\attr.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 59,
-                        "endColumn": 48,
-                        "endOffset": 103
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\attr.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 173
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\attr.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 156,
-                        "endColumn": 45,
-                        "endOffset": 197
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\attr.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 221
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\attr.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 203,
-                        "endColumn": 53,
-                        "endOffset": 252
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\attr.xml"
                 }
             },
             {
@@ -87,14 +59,7 @@
                     "endOffset": 436
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 92,
-                        "endColumn": 57,
-                        "endOffset": 145
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -106,14 +71,7 @@
                     "endOffset": 492
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 151,
-                        "endColumn": 55,
-                        "endOffset": 202
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -125,14 +83,7 @@
                     "endOffset": 534
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 141,
-                        "endColumn": 41,
-                        "endOffset": 178
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -144,14 +95,7 @@
                     "endOffset": 579
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 96,
-                        "endColumn": 44,
-                        "endOffset": 136
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -163,14 +107,7 @@
                     "endOffset": 619
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 39,
-                        "endOffset": 91
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -182,14 +119,7 @@
                     "endOffset": 667
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 232,
-                        "endColumn": 47,
-                        "endOffset": 275
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -201,14 +131,7 @@
                     "endOffset": 715
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 366,
-                        "endColumn": 47,
-                        "endOffset": 409
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -220,14 +143,7 @@
                     "endOffset": 764
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 183,
-                        "endColumn": 48,
-                        "endOffset": 227
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -239,14 +155,7 @@
                     "endOffset": 808
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 322,
-                        "endColumn": 43,
-                        "endOffset": 361
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -258,14 +167,7 @@
                     "endOffset": 850
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 280,
-                        "endColumn": 41,
-                        "endOffset": 317
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -277,14 +179,7 @@
                     "endOffset": 894
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 414,
-                        "endColumn": 43,
-                        "endOffset": 453
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -296,14 +191,7 @@
                     "endOffset": 935
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 458,
-                        "endColumn": 40,
-                        "endOffset": 494
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -315,14 +203,7 @@
                     "endOffset": 972
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 499,
-                        "endColumn": 36,
-                        "endOffset": 531
-                    }
+                    "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -351,9 +232,9 @@
                     "startLine": 27,
                     "startColumn": 4,
                     "startOffset": 1268,
-                    "endLine": 30,
+                    "endLine": 31,
                     "endColumn": 12,
-                    "endOffset": 1515
+                    "endOffset": 1574
                 },
                 "from": {
                     "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\styles.xml",
@@ -361,30 +242,30 @@
                         "startLine": 15,
                         "startColumn": 4,
                         "startOffset": 525,
-                        "endLine": 18,
+                        "endLine": 19,
                         "endColumn": 12,
-                        "endOffset": 775
+                        "endOffset": 835
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 1520,
-                    "endLine": 34,
+                    "startOffset": 1579,
+                    "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 1735
+                    "endOffset": 1794
                 },
                 "from": {
                     "file": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 783,
-                        "endLine": 23,
+                        "startOffset": 843,
+                        "endLine": 24,
                         "endColumn": 12,
-                        "endOffset": 1001
+                        "endOffset": 1061
                     }
                 }
             }
