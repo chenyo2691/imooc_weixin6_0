@@ -5,6 +5,7 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
@@ -215,6 +216,11 @@ public class MainActivity extends FragmentActivity implements OnClickListener,
             case R.id.action_scan:
 //                onBackPressed();
                 Toast.makeText(this, "scanning", Toast.LENGTH_LONG).show();
+                Intent intent = new Intent(MainActivity.this, DefaultCaptureActivity.class);
+                startActivity(intent);
+
+//                Intent intent = new Intent(MainActivity.this, WeChatCaptureActivity.class);
+//                startActivity(intent);
                 break;
 
             default:
