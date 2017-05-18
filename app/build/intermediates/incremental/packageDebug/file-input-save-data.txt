@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu May 18 11:11:31 CST 2017
+#Thu May 18 11:12:41 CST 2017
 5.base=E\:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\resources-debug.ap_
 42.base=E\:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\resources-debug.ap_
 32.set=ANDROID_RESOURCE

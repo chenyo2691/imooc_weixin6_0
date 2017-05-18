@@ -36,7 +36,7 @@
                 android:singleLine="true"
                 android:text="上午 7:45"
                 android:textColor="#9E9E9E"
-                android:textSize="15dip" />
+                android:textSize="13dip" />
 
             <TextView
                 android:layout_width="wrap_content"
