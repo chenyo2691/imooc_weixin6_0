@@ -1,15 +1,15 @@
 [
     {
-        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\headshow_game.jpg",
-        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\headshow_game.jpg"
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ofm_setting_icon.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ofm_setting_icon.png"
     },
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\myicon.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\myicon.png"
     },
     {
-        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ofm_setting_icon.png",
-        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ofm_setting_icon.png"
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\headshow_game.jpg",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\headshow_game.jpg"
     },
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\headshow_heb.png",
@@ -34,6 +34,10 @@
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\headshow_pay.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\headshow_pay.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\contact_label.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\contact_label.png"
     },
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\headshow4.png",
@@ -76,6 +80,10 @@
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\headshow_sj.png"
     },
     {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\contact_newfriend.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\contact_newfriend.png"
+    },
+    {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_emoticons.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_emoticons.png"
     },
@@ -116,11 +124,19 @@
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\icon_meituan.png"
     },
     {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\contact_public.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\contact_public.png"
+    },
+    {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\headshow2.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\headshow2.png"
     },
     {
         "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\headshow_linman.png",
         "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\headshow_linman.png"
+    },
+    {
+        "merged": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\contact_group.png",
+        "source": "E:\\Develop\\Android\\imooc_weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\contact_group.png"
     }
 ]

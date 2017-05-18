@@ -30,7 +30,7 @@ public class TabFragment extends Fragment {
         if (s.equals("微信")) {
             view = inflater.inflate(R.layout.conversation, container, false);
         } else if (s.equals("通讯录")) {
-
+            view = inflater.inflate(R.layout.contact, container, false);
         } else if (s.equals("发现")) {
             view = inflater.inflate(R.layout.found, container, false);
         } else if (s.equals("我")) {

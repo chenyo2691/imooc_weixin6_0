@@ -3,7 +3,7 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:gravity="center_horizontal"
-    android:orientation="vertical" >
+    android:orientation="vertical">
 
     <LinearLayout
         android:id="@+id/pop_layout"
@@ -12,7 +12,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
         android:gravity="center_horizontal"
-        android:orientation="vertical" >
+        android:orientation="vertical">
 
         <TextView
             android:layout_width="fill_parent"
@@ -22,9 +22,9 @@
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
             android:background="#FFFFFF"
-            android:padding="8dp" >
+            android:orientation="horizontal"
+            android:padding="8dp">
 
             <ImageView
                 android:layout_width="70dp"
@@ -36,14 +36,14 @@
                 android:layout_height="wrap_content"
                 android:gravity="left|center_vertical"
                 android:orientation="vertical"
-                android:paddingLeft="20dp"
-                 >
+                android:paddingLeft="20dp">
 
                 <TextView
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
+                    android:gravity="left|center_vertical"
+                    android:paddingTop="17dp"
                     android:text="CYS"
-                    android:textAlignment="viewStart"
                     android:textColor="#000000"
                     android:textSize="15dp" />
 
@@ -65,10 +65,9 @@
             android:id="@+id/my_photo"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
             android:background="#FFFFFF"
-            android:padding="8dp"
-             >
+            android:orientation="horizontal"
+            android:padding="8dp">
 
             <ImageView
                 android:layout_width="35dp"
@@ -96,9 +95,9 @@
             android:id="@+id/my_collection"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
             android:background="#FFFFFF"
-            android:padding="8dp" >
+            android:orientation="horizontal"
+            android:padding="8dp">
 
             <ImageView
                 android:layout_width="35dp"
@@ -125,9 +124,9 @@
             android:id="@+id/my_bank"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
             android:background="#FFFFFF"
-            android:padding="8dp" >
+            android:orientation="horizontal"
+            android:padding="8dp">
 
             <ImageView
                 android:layout_width="35dp"
@@ -154,9 +153,9 @@
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
             android:background="#FFFFFF"
-            android:padding="8dp" >
+            android:orientation="horizontal"
+            android:padding="8dp">
 
             <ImageView
                 android:layout_width="35dp"
@@ -182,9 +181,9 @@
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
             android:background="#FFFFFF"
-            android:padding="8dp" >
+            android:orientation="horizontal"
+            android:padding="8dp">
 
             <ImageView
                 android:layout_width="35dp"
@@ -210,9 +209,9 @@
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
             android:background="#FFFFFF"
-            android:padding="8dp" >
+            android:orientation="horizontal"
+            android:padding="8dp">
 
             <ImageView
                 android:layout_width="35dp"
