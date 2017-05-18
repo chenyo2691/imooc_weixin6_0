@@ -15,6 +15,8 @@
 
     <style name="weixinActionOverflowButtonStyle">
         <item name="android:src">@drawable/actionbar_add_icon</item>
+        <item name="android:paddingRight">17dp</item>
+        <item name="android:paddingLeft">17dp</item>
     </style>
 
     <style name="MyDropDownListView" parent="@android:style/Widget.Holo.ListView.DropDown">
