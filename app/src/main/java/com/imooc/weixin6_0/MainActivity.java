@@ -13,10 +13,12 @@ import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
 import android.util.Log;
 import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewConfiguration;
 import android.view.Window;
+import android.widget.Toast;
 
 public class MainActivity extends FragmentActivity implements OnClickListener,
         OnPageChangeListener {
@@ -206,4 +208,20 @@ public class MainActivity extends FragmentActivity implements OnClickListener,
 
     }
 
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.action_scan:
+//                onBackPressed();
+                Toast.makeText(this, "scanning", Toast.LENGTH_LONG).show();
+                break;
+
+            default:
+
+                break;
+        }
+
+        return super.onOptionsItemSelected(item);
+    }
 }
