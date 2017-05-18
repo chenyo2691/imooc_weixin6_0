@@ -118,16 +118,17 @@ containing a value of this type.
         public static final int ofm_photo_icon=0x7f020038;
         public static final int ofm_setting_icon=0x7f020039;
         public static final int peoplepress=0x7f02003a;
-        public static final int scanline=0x7f02003b;
-        public static final int tab_address_normal=0x7f02003c;
-        public static final int tab_bg=0x7f02003d;
-        public static final int tab_find_frd_normal=0x7f02003e;
-        public static final int tab_settings_normal=0x7f02003f;
-        public static final int tab_weixin_normal=0x7f020040;
-        public static final int welcome_bg=0x7f020041;
-        public static final int welcome_earth=0x7f020042;
-        public static final int welcome_logo_ch=0x7f020043;
-        public static final int welcome_people=0x7f020044;
+        public static final int rr=0x7f02003b;
+        public static final int scanline=0x7f02003c;
+        public static final int tab_address_normal=0x7f02003d;
+        public static final int tab_bg=0x7f02003e;
+        public static final int tab_find_frd_normal=0x7f02003f;
+        public static final int tab_settings_normal=0x7f020040;
+        public static final int tab_weixin_normal=0x7f020041;
+        public static final int welcome_bg=0x7f020042;
+        public static final int welcome_earth=0x7f020043;
+        public static final int welcome_logo_ch=0x7f020044;
+        public static final int welcome_people=0x7f020045;
     }
     public static final class id {
         public static final int a1=0x7f0a000a;

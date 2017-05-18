@@ -16,7 +16,7 @@ import com.google.zxing.client.android.camera.CameraManager;
 
 /**
  * Created by yangxixi on 16/11/22.
- *
+ * <p>
  * 自动上下扫描
  */
 
@@ -76,13 +76,20 @@ public class AutoScannerView extends View {
         int height = canvas.getHeight();
 
         // 除了中间的识别区域，其他区域都将蒙上一层半透明的图层
-        canvas.drawRect(0, 0, width, frame.top, maskPaint);
-        canvas.drawRect(0, frame.top, frame.left, frame.bottom + 1, maskPaint);
-        canvas.drawRect(frame.right + 1, frame.top, width, frame.bottom + 1, maskPaint);
-        canvas.drawRect(0, frame.bottom + 1, width, height, maskPaint);
+        canvas.drawRect(0, 0, width, frame.top, maskPaint);//上
+        canvas.drawRect(0, frame.top, frame.left, frame.bottom + 1, maskPaint);//左
+        canvas.drawRect(frame.right + 1, frame.top, width, frame.bottom + 1, maskPaint);//右
+        canvas.drawRect(0, frame.bottom + 1, width, height, maskPaint);//下
 
-        String text = "将二维码放入框内，即可自动扫描";
+        String text = "将二维码/条码放入框内，即可自动扫描";
         canvas.drawText(text, (width - textPaint.measureText(text)) / 2, frame.bottom + textMarinTop, textPaint);
+
+        Rect lineRect_bottom = new Rect();
+        lineRect_bottom.left = 0;
+        lineRect_bottom.top = height - 250;
+        lineRect_bottom.right = width;
+        lineRect_bottom.bottom = height;
+        canvas.drawBitmap(((BitmapDrawable) (getResources().getDrawable(R.drawable.rr))).getBitmap(), null, lineRect_bottom, linePaint);
 
         // 四个角落的三角
         Path leftTopPath = new Path();
@@ -120,7 +127,7 @@ public class AutoScannerView extends View {
             lineRect.top = frame.top + lineOffsetCount;
             lineRect.right = frame.right;
             lineRect.bottom = frame.top + dp2px(10) + lineOffsetCount;
-            canvas.drawBitmap(((BitmapDrawable)(getResources().getDrawable(R.drawable.scanline))).getBitmap(), null, lineRect, linePaint);
+            canvas.drawBitmap(((BitmapDrawable) (getResources().getDrawable(R.drawable.scanline))).getBitmap(), null, lineRect, linePaint);
         }
         postInvalidateDelayed(10L, frame.left, frame.top, frame.right, frame.bottom);
     }

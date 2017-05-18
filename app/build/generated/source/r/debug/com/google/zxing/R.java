@@ -21,7 +21,8 @@ public final class R {
 		public static final int viewfinder_mask = 0x7f07000a;
 	}
 	public static final class drawable {
-		public static final int scanline = 0x7f02003b;
+		public static final int rr = 0x7f02003b;
+		public static final int scanline = 0x7f02003c;
 	}
 	public static final class raw {
 		public static final int beep = 0x7f040000;

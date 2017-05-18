@@ -42,8 +42,8 @@ public final class CameraManager {
 
     private static final String TAG = CameraManager.class.getSimpleName();
 
-    private static final int MIN_FRAME_WIDTH = 240;
-    private static final int MIN_FRAME_HEIGHT = 240;
+    private static final int MIN_FRAME_WIDTH = 168;
+    private static final int MIN_FRAME_HEIGHT = 168;
     private static final int MAX_FRAME_WIDTH = 1200; // = 5/8 * 1920
     private static final int MAX_FRAME_HEIGHT = 675; // = 5/8 * 1080
 
@@ -232,7 +232,7 @@ public final class CameraManager {
 
             int leftOffset = (screenResolution.x - width) / 2;
             int topOffset = (screenResolution.y - height) / 2;
-            framingRect = new Rect(leftOffset, topOffset, leftOffset + width, topOffset + height);
+            framingRect = new Rect(leftOffset, topOffset - 300, leftOffset + width, topOffset + height - 300);
             Log.d(TAG, "Calculated framing rect: " + framingRect);
         }
         return framingRect;
